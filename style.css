@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+}
+.btn{
+    font-family:cursive ;
+    width: 100px;
+    height: 25px;
+    padding: 3px;
+    margin: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(161, 122, 198);
+    color: white;
+}
+.btn:hover{
+    background-color: blueviolet;
+}
+h2{
+    color: rgb(130, 56, 199) ;
+}
+p{
+    color: rgb(161, 122, 198);
+}
+.container2{
+    display: flex;
+}
+.btn2{
+    font-family:cursive ;
+    width: 100px;
+    height: 25px;
+    padding: 3px;
+    margin: 10px;
+    border: 10px;
+    border-color: rgb(130, 56, 199);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(161, 122, 198);
+}
+.btn2:hover{
+    background-color: blueviolet;
+}
